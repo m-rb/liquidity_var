@@ -1,2 +1,2 @@
 # liquidity_var
-FAANG EWMA VaR with Liquidity Adjustment
+The main purpose of the code is to take into account the impact of Liquidity Risk when calculating the portfolio Value at Risk.
